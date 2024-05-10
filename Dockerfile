@@ -1,4 +1,4 @@
-FROM python:3.10-alpine
+FROM python:3.13.0b1-alpine
 LABEL maintainer="AlexFlipnote <root@alexflipnote.dev>"
 
 LABEL build_date="2022-04-25"
